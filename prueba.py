@@ -8,3 +8,5 @@ print("Ejemplo #2")
 opcion =2
 if opcion==2:
     print("Prueba del if")
+
+print ("Prueba 2")
