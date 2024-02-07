@@ -7,6 +7,8 @@ print("Ejemplo #2")
 
 
 print("Ejemplo #3")
+
+print("Ejemplo #4")
 opcion =2
 if opcion==2:
     print("Prueba del if")
